@@ -3,7 +3,7 @@
 #include <limits>
 #include <random>
 
-#include "./BenchUtils.h"
+#include "BenchUtils.h"
 #include "fbgemm/FbgemmI64.h"
 #include "fbgemm/Utils.h"
 #include "src/RefImplementations.h"

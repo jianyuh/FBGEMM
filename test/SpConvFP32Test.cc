@@ -8,7 +8,7 @@
 
 #include <random>
 
-#include "./TestUtils.h"
+#include "TestUtils.h"
 #include "bench/BenchUtils.h"
 #include "fbgemm/FbgemmSpConv.h"
 #include "src/RefImplementations.h"

@@ -1,5 +1,5 @@
 #include "fbgemm/FbgemmSpMM.h"
-#include "./FbgemmSpMM-inl.h"
+#include "FbgemmSpMM-inl.h"
 
 #include <cpuinfo.h>
 #include <algorithm>
